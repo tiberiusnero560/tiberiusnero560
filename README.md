@@ -7,7 +7,7 @@
 
 
 
-<br><br><br>
+
 <h1>Thanks for checking out my page ! </h1>
 <hr> 
 <h3> My Story </h3>
