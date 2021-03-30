@@ -1,6 +1,6 @@
 
 
-![Github Banner Image](https://github.com/tiberiusnero560/kyle-leblanc-portfolio/blob/main/Assets/kyle-nice-wedding-photo.jpg)
+![Github Banner Image](https://github.com/tiberiusnero560/kyle-leblanc-portfolio/blob/main/Assets/GithubBanner.jpg)
 
 
 
