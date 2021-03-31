@@ -13,7 +13,7 @@
 <p> I am a self taught Software, web developer and entrepreneur in progress. Like many others, I was unsure of what exactly I wanted to do with my life for some time.
 I first tried to go to school out of high school for video game development. I quickly ran into issues and ultimately, only finished 2 semesters. I believe this was a blessing
 in disguise. We are often told we need to go to college or university, but I think we don't talk nearly enough about the fact that you may not enjoy the career you chose right 
-out of high school. Sometimes, it's better to explore different things, and ultimately fail at most of them. 
+out of high school. Sometimes, it's better to explore different things, and ultimately fail until you find something.
 
 Now, I have committed to learning new skills, growing my personal brand, attempting new and extraordinary things, and failing as much as I can. I waited far to long to start 
 this, but I am finally doing it. This page will evolve and grow as I do, and I intend for it to become something extradordinary. 
