@@ -32,7 +32,8 @@ C++ basic AI - Under Development <br>
 <h3> The Future </h3>
 <p> I am looking to network with likeminded people, contribute to open source projects and continue to grow my portfolio of work.
     I believe it's time to start to search for freelance clients for smaller projects to add real industry experience while I continue my job search for 
-    something in the industry. This is because I understand that for me to be taken seriously with a tech company of my own, the first question I will be asked will be, "What       tech background do you have?". <br> <br>
+    something in the industry. <br> <br>
+    This is because I understand that for me to be taken seriously with a tech company of my own, the first question I will be asked will be, "What       tech background do you     have?". <br> <br>
     This is me creating the answer to that question right now. 
 </p>
 
