@@ -20,7 +20,7 @@ I waited far to long to start this, but I am finally doing it. This page will ev
 </p>
 
 Professional Portfolio website ( KyleLeBlanc.ca ) <img src="https://img.icons8.com/cute-clipart/35/000000/checked-checkbox.png"/> <br>
-Press For Earth Company Website - Under Development (Almost complete)
+Press For Earth Company Website - Under Development (Almost complete) <br>
 Tech For Earth company website - Under Development <br>
 C++ basic AI - Under Development <br>
 
