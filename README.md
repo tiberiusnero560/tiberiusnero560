@@ -1,6 +1,6 @@
 
 
-![Github Banner Image](https://github.com/tiberiusnero560/kyle-leblanc-portfolio/blob/main/Assets/GithubBanner.jpg)
+![Github Banner Image](https://github.com/tiberiusnero560/kyle-leblanc-portfolio/blob/main/github-banner.jpg)
 
 
 
