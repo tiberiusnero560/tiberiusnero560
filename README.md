@@ -9,7 +9,7 @@
 
 <h1>Thanks for checking out my page ! </h1>
 <hr> 
-<h3> My Story </h3>
+<h3> My Story...so far </h3>
 <p> I am a self taught Software, web developer and entrepreneur in progress. Like many others, I was unsure of what exactly I wanted to do with my life for some time.
 I first tried to go to school out of high school for video game development. I quickly ran into issues and ultimately, only finished 2 semesters. I believe this was a blessing
 in disguise. We are often told we need to go to college or university, but I think we don't talk nearly enough about the fact that you may not enjoy the career you chose right 
