@@ -15,10 +15,15 @@ I first tried to go to school out of high school for video game development. I q
 in disguise. We are often told we need to go to college or university, but I think we don't talk nearly enough about the fact that you may not enjoy the career you chose right 
 out of high school. Sometimes, it's better to explore different things, and ultimately fail until you find something.
 
-Now, I have committed to learning new skills, growing my personal brand, attempting new and extraordinary things, and failing as much as I can. I waited far to long to start 
-this, but I am finally doing it. This page will evolve and grow as I do, and I intend for it to become something extradordinary. 
-
+Now, I have committed to learning new skills, growing my personal brand, attempting new and extraordinary things and understanding that failing is just testing. 
+I waited far to long to start this, but I am finally doing it. This page will evolve and grow as I do, and I intend for it to become something extradordinary as I complete project, after project, after project. 
 </p>
+
+Professional Portfolio website <img src="https://img.icons8.com/cute-clipart/35/000000/checked-checkbox.png"/> <br>
+Press For Earth Company Website - Under Development <br>
+Tech For Earth company website - Under Development <br>
+C++ basic AI - Under Development <br>
+
 
 <section>
 <br><br><h3 align="right"> My Contributions (work in progress) </h3>
