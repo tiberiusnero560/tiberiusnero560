@@ -10,7 +10,7 @@
 <h1>Thanks for checking out my page ! </h1>
 <hr> 
 <h3> My Story...so far </h3>
-<p>I am a Ryerson University Computer Science student currently taking a course one at a time starting May 07 2021 -  Ending July 23 2021.
+<p>I am a <strong>Ryerson University Computer Science</strong> student currently taking a course one at a time starting May 07 2021 -  Ending July 23 2021.
    I will also be adding a Cyber Security course into the mix during my learning at Ryerson. I am doing my learning online remotely, continuing to document my journey and          enjoying the process, not just looking towards the destination. 
 
 Now, I have committed to learning new skills, growing my personal brand, attempting new and extraordinary things and understanding that failing is just testing. 
