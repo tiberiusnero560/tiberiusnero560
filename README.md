@@ -54,7 +54,7 @@ C++ basic AI - Under Development <br>
 
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
 </p>
-
+<br>
 
 
 <h3> Contact me </h3>
