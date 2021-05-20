@@ -48,7 +48,7 @@ C++ basic AI - Under Development <br>
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express?logo=Express&logoColor=white&style=for-the-badge" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-E10098?logo=express&logoColor=white&style=for-the-badge" />
 
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
 </p>
