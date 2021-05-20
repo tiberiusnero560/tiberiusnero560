@@ -37,7 +37,7 @@ C++ basic AI - Under Development <br>
 
 </section>
 
-
+<h2> My Skills </h2>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
