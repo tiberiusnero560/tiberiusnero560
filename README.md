@@ -51,7 +51,6 @@ C++ basic AI - Under Development <br>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-E10098?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-E10098?logo=express&logoColor=white&style=for-the-badge" />
 
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
 </p>
 <br>
 
