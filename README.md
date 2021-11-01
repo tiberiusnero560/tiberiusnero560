@@ -48,7 +48,7 @@ C++ basic AI - Under Development <br>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-E10098?logo=Node.js&logoColor=white&style=for-the-badge" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-E61DAFB?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-E10098?logo=express&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-E34F26?logo=Mongodb&logoColor=white&style=for-the-badge" />
 
