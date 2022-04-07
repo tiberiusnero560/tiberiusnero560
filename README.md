@@ -20,8 +20,8 @@ I waited far to long to start this, but I am finally doing it. This page will ev
 Professional Portfolio website ( KyleLeBlanc.ca ) -- Complete <br>
 Google Clone MERN Stack App -- Complete  <br>
 Press For Earth Company Website - Under Development <br>
-Tech For Earth company website - Under Development in React <br>
-C++ basic AI - Under Development <br>
+Leblanc Software Solutions company website - Completed in React <br>
+Social Media App - Under Development in React Native <br>
 
 
 <section>
