@@ -58,8 +58,7 @@ Social Media App - Under Development in React Native <br>
 
 
 <h3> Contact me </h3>
-<p>   I am still working on getting the links on the images to work to link to my different social media pages etc
-      but for now, if you wish to contact me to work on an open source project together, or you are a potential client and would like to discuss
+<p>   If you wish to contact me to work on an open source project together, or you are a potential client and would like to discuss
       working together, you can visit my professional portfolio website at 
      KyleLeBlanc.ca
 </p> 
