@@ -24,7 +24,7 @@ I waited far to long to start this, but I am finally doing it. This page will ev
 Professional Portfolio website ( KyleLeBlanc.ca ) -- Complete <br>
 Google Clone MERN Stack App -- Complete  <br>
 Leblanc Software Solutions company website - Completed in React <br>
-Leblanc Software Solutions website -- Rebuilding in Nextjs
+Leblanc Software Solutions website -- Rebuilding in Nextjs <br>
 Social Media App - Paused Development Temporarily React Native <br>
 
 
