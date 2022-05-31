@@ -7,9 +7,8 @@
 
 
 
-# Thanks for checking out my page ! 
 
-# I'm Kyle LeBlanc
+# Hi there, I'm Kyle LeBlanc
 Self taught Web and App developer from Ottawa Canada.  
    <p>
        I tried to start taking courses at Ryerson University but just can't afford it right now and I refuse to take any more money from those around me. I can do this        on my own. Self taught, as I have been doing it.    
