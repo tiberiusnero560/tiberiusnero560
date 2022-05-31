@@ -7,10 +7,10 @@
 
 
 
-<h1>Thanks for checking out my page ! </h1>
-<hr> 
+# Thanks for checking out my page ! 
+
 # I'm Kyle LeBlanc
-## Self taught Web and App developer from Ottawa Canada.  
+Self taught Web and App developer from Ottawa Canada.  
    <p>
        I tried to start taking courses at Ryerson University but just can't afford it right now and I refuse to take any more money from those around me. I can do this        on my own. Self taught, as I have been doing it.    
    </p>
@@ -33,7 +33,7 @@ Social Media App - Under Development in React Native <br>
 <br><br><h3 align="right"> My Contributions (work in progress) </h3>
  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=TiberiusNero560&theme=monokai" />
 
-<h3> The Future </h3>
+## The Future
 <p> I am looking to network with likeminded people, contribute to open source projects and continue to grow my portfolio of work.
     I believe it's time to start to search for freelance clients for smaller projects to add real industry experience while I continue my job search for 
     something in the industry. <br> <br>
@@ -44,7 +44,7 @@ Social Media App - Under Development in React Native <br>
 </section>
 <br>
 
-<h2> My Skills </h2>
+### My Skills
 <br>
 
 <p>
@@ -62,7 +62,7 @@ Social Media App - Under Development in React Native <br>
 <br>
 
 
-<h3> Contact me </h3>
+### Contact me 
 <p>   If you wish to contact me to work on an open source project together, or you are a potential client and would like to discuss
       working together, you can visit my professional portfolio website at 
      KyleLeBlanc.ca
