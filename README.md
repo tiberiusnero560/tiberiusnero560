@@ -9,9 +9,14 @@
 
 <h1>Thanks for checking out my page ! </h1>
 <hr> 
-<h3> My Story...so far </h3>
-<p>I am a <strong>Ryerson University Computer Science</strong> student currently taking courses one at a time starting May 07 2021 - Ending July 23 2021 (Computer science I)<br>
-   I will also be adding a Cyber Security course into the mix during my learning at Ryerson. I am doing my learning online remotely, continuing to document my journey and          enjoying the process, not just looking towards the destination. 
+# I'm Kyle LeBlanc
+## Self taught Web and App developer from Ottawa Canada.  
+   <p>
+       I tried to start taking courses at Ryerson University but just can't afford it right now and I refuse to take any more money from those around me. I can do this        on my own. Self taught, as I have been doing it.    
+   </p>
+   <p>
+      I have spent the last 3 years specializing in React and just recently, Nextjs which was easy to pick up and run with. I have launched                       Leblancsoftwaresolutions.com for Web and App development services. As well as IT consulting services. 
+   </p>
 
 Now, I have committed to learning new skills, growing my personal brand, attempting new and extraordinary things and understanding that failing is just testing. 
 I waited far to long to start this, but I am finally doing it. This page will evolve and grow as I do, and I intend for it to become something extradordinary as I complete project, after project, after project. 
