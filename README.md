@@ -1,75 +1,59 @@
+Hi, I'm Kyle LeBlanc 👋
 
+Full-Stack Software Engineer | React, TypeScript, Node.js, Prisma | Scalable Systems & Performance Optimization
 
-![Github Banner Image](https://github.com/tiberiusnero560/kyle-leblanc-portfolio/blob/main/github-banner.jpg)
+👨‍💻 About Me
 
+I'm a full-stack engineer from Ottawa, Canada with 2+ years of hands-on experience building scalable applications, optimizing backend infrastructure, and delivering high-impact features across React, TypeScript, Node.js, Prisma, and PostgreSQL.
+I began my career as an intern while working full-time in construction, taught myself software engineering, and quickly progressed into a full-time developer role — eventually leading major platform migrations and performance initiatives.
+I’ve contributed extensively to Trace, a sneaker consignment SaaS platform (formerly Habit App / Unit 203), improving performance, architecture, and stability across the entire stack.
+I care deeply about writing clean code, solving meaningful problems, and continuously improving my craft.
 
+🚀 Professional Experience Highlights
+Full-Stack Software Engineer — Unit 203 / Trace (2022–2024)
+Built and scaled production systems used by real customers.
+⚡ 99% server performance improvement through distributed computing (Redis + Bull queues), query optimization, and refactoring.
+🔧 Led major technical migrations
+Sequelize ➜ Prisma
+Heroku ➜ Render (cost, reliability, scalability improvements)
 
+🐳 Designed CI/CD pipelines using GitHub Actions, Docker & Sentry → cut issue resolution time by 50%.
+🛠️ Built scalable full-stack features using React, TypeScript, Redux, Node.js, Express, Prisma.
+🛒 Shopify integration specialist — fixed syncing issues & implemented rate limiting, reducing API failures by 40%.
+🗄️ Improved database architecture with optimized queries, indexing & complex SQL.
+👥 Mentored junior developers & performed code reviews.
+🧩 Contributed to UI/UX improvements based on real user feedback.
+🔌 Developed RESTful APIs & worked with GraphQL APIs in a limited capacity.
 
+Software Engineer Intern — Unit 203 (2022)
 
+Built UI components using React + TypeScript, fixed bugs, delivered UI updates.
+Created & updated backend endpoints using Node.js & Sequelize.
+Wrote SQL queries for PostgreSQL and learned API/backend fundamentals fast.
+Earned a full-time offer within 2 months for strong performance.
 
+🧠 What I’m Doing Now
 
-# Hi there, I'm Kyle LeBlanc
-Self taught Web and App developer from Ottawa Canada.  
-   <p>
-       I tried to start taking courses at Ryerson University but just can't afford it right now and I refuse to take any more money from those around me. I can do this        on my own. Self taught, as I have been doing it.    
-   </p>
-   <p>
-      I have spent the last 3 years specializing in React and just recently, Nextjs which was easy to pick up and run with. I have launched                       Leblancsoftwaresolutions.com for Web and App development services. As well as IT consulting services. 
-   </p>
+Continuing to grow as a full-stack & backend engineer.
+Learning advanced system design, distributed systems & DevOps tooling.
+Expanding my technical portfolio and personal projects.
+Actively looking for opportunities to contribute to impactful software teams.
 
-Now, I have committed to learning new skills, growing my personal brand, attempting new and extraordinary things and understanding that failing is just testing. 
-I waited far to long to start this, but I am finally doing it. This page will evolve and grow as I do, and I intend for it to become something extradordinary as I complete project, after project, after project. 
-</p>
+🛠️ My Tech Stack
+Frontend
+<p> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&style=for-the-badge" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge" /> <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&style=for-the-badge" /> </p>
+Backend
+<p> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge" /> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge" /> <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&style=for-the-badge" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=for-the-badge" /> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=for-the-badge" /> </p>
+DevOps & Tools
+<p> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&style=for-the-badge" /> <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&style=for-the-badge" /> </p>
+📈 GitHub Stats (Work in Progress)
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=TiberiusNero560&theme=monokai" />
+📬 Contact
 
-Professional Portfolio website ( KyleLeBlanc.ca ) -- Complete <br>
-Google Clone MERN Stack App -- Complete  <br>
-Leblanc Software Solutions company website - Completed in React <br>
-Leblanc Software Solutions website -- Rebuilding in Nextjs <br>
-Social Media App - Paused Development Temporarily React Native <br>
+If you’d like to collaborate, hire me, or discuss an opportunity:
 
-
-<section>
-<br><br><h3 align="right"> My Contributions (work in progress) </h3>
- <img align="right" src="https://github-readme-stats.vercel.app/api/?username=TiberiusNero560&theme=monokai" />
-
-## The Future
-<p> I am looking to network with likeminded people, contribute to open source projects and continue to grow my portfolio of work.
-    I believe it's time to start to search for freelance clients for smaller projects to add real industry experience while I continue my job search for 
-    something in the industry. <br> <br>
-    This is because I understand that for me to be taken seriously with a tech company of my own, the first question I will be asked will be, "What       tech background do you     have?". <br> <br>
-    This is me creating the answer to that question right now. 
-</p>
-
-</section>
-<br>
-
-### My Skills
-<br>
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-E61DAFB?logo=Node.js&logoColor=white&style=for-the-badge" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-E10098?logo=express&logoColor=white&style=for-the-badge" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-E34F26?logo=Mongodb&logoColor=white&style=for-the-badge" />
-
-
-</p>
-<br>
-
-
-### Contact me 
-<p>   If you wish to contact me to work on an open source project together, or you are a potential client and would like to discuss
-      working together, you can visit my professional portfolio website at 
-     KyleLeBlanc.ca
-</p> 
-    
-    
-    
-
-
+👉 Portfolio: KyleLeBlanc.ca
+👉 Email: (Add your email here)
+👉 LinkedIn: (Highly recommended to link here)
 
 
